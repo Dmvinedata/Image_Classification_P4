@@ -1,6 +1,6 @@
 # Image_Classification_p4
 Phase 4 Project 4 Image Classification
-[Presentation Link](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/P4_presentation.pdf) <br>
+[Presentation Link](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/P4_Presentation.pdf) <br>
 
 [Jupyter Notebook Link](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/notebook.pdf)  <br>
 
@@ -11,7 +11,7 @@ Phase 4 Project 4 Image Classification
 
 
 ***
-![Pneumonia](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/pneumonia.jpeg)
+![Pneumonia](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/Pneumonia.jpeg)
 ***
 
 # Business Understanding
@@ -48,9 +48,17 @@ Pneumonia:<br>
 - Loss:.68
 - Accuracy:.6
 
+### Test Prediction Confusion Matrix
+
 ***
 ![Confusion Matrix](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/Test_PRed.png)
 ***
+
+### True Positive Evaluation
+***
+![True Positive Eval](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/TP_Lime.jpg)
+***
+
 # Conclusion
 
 ## Limitation
