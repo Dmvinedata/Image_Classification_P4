@@ -32,31 +32,31 @@ Iteratively produce models. As new information was learned new models, parameter
 - Model 8-10 Transfer Learning
 - Final Model (Model 5)                                     
 ## Results
-From the 624 Data pieces:<br>
-    - .59% True Positive (366)<br>
-    - .014% True Negative (9)<br>
-    - .04% False Negative (24)<br>
-    - .36% False Positive (225)<br>
+From the 624 Dataset:<br>
+    - .61% True Positive (383)<br>
+    - .018% True Negative (112)<br>
+    - .01% False Negative (7)<br>
+    - .2% False Positive (122)<br>
     
-Normal:<br>
-    - Recall:.04 <br>
-    - F1-Score:.07 <br>
+**Normal:**<br>
+- Recall:.48 <br>
+- F1-Score:.63 <br>
+- Precision:94 <br>
 
-Pneumonia:<br>
-    - Recall:.94 <br>
-    - F1-Score:.75 <br>
-- Loss:.68
-- Accuracy:.6
+**Pneumonia:** <br>
+- Recall:.98 <br>
+- F1-Score:.86 <br>
+- Precision:.76 <br>
 
 ### Test Prediction Confusion Matrix
 
 ***
-![Confusion Matrix](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/Test_PRed.png)
+![Confusion Matrix](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/test_matrix.png)
 ***
 
 ### True Positive Evaluation
 ***
-![True Positive Eval](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/TP_Lime.jpg)
+![True Positive Eval](https://github.com/Dmvinedata/Image_Classification_P4/blob/main/images/TP_Lime.png)
 ***
 
 # Conclusion
